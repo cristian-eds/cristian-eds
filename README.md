@@ -4,8 +4,7 @@
 
 ## 🚀 Sobre mim
 Aspirante a desenvolvedor full-stack React | Java - Spring...
-
-
+Conhecimento também em mobile com React Native
 
 ## Linguagens
 
@@ -20,6 +19,7 @@ Aspirante a desenvolvedor full-stack React | Java - Spring...
  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
  ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
  ![Javascript](https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=for-the-badge)
+ ![React Native](https://img.shields.io/badge/-React%20native-000?&logo=react&style=for-the-badge)
  
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)
